@@ -1,5 +1,5 @@
 # Welcome to the Australian Structural Biology Computing GitHub 👋
-If Strucutral Biology and coding is your gig, well, you've come to the right place!
+If Structural Biology and coding is your gig, well, you've come to the right place!
 Here is a collection of Australian collaborative efforts in the field of Structural Biology from a computational perspective. 
 If you feel you can contribute then please join in.
 If you have any questions ask away and we'll see what we can do.
